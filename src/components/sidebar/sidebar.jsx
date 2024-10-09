@@ -35,7 +35,7 @@ const Sidebar = () => {
         </div>
         <div className="boton-item recent-entry">
           <img className="icon history" src={historyIcon} alt="history Icon"/>
-          {extended?<p>Historyt</p>:null}
+          {extended?<p>History</p>:null}
         </div>
         <div className="boton-item recent-entry">
           <img className="icon setting" src={settingIcon} alt="setting Icon"/>
