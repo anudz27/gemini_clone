@@ -1,14 +1,22 @@
-import React from 'react';
-import './Main.css';  
+import React from 'react'
+import './main_side.css';
+
 import User from '../../assets/man.png';
+
 
 const Main = () => {
     return (
+        
         <div className='main'>
             <div className='nav'>
+                
             <p>Gemini</p>
-            <img className="user d3" src={User} alt="User"/>
+            
+        
+            <img className="icon" src={User} alt="User"/>
+            
             </div>
+           
             
         </div>
     );

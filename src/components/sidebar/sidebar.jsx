@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Sidebar.css'; // Optional: For custom styling
+import './Sidebar.css'; 
 import menuIcon from '../../assets/menu.png';
 import pluseIcon from '../../assets/plus.png';
 import chatIcon from '../../assets/chat.png';
