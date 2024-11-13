@@ -54,6 +54,9 @@ const Main = () => {
                             <img src={Send} alt=''/>
                         </div>
                     </div>
+                    <p className='bottom-info'>
+                        Gemini may display inaccurate info, including about people, so double-check its responses, ypur privacy and Gemini Apps
+                    </p>
                 </div>
             </div>
             
